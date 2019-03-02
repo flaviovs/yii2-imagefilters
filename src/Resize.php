@@ -4,7 +4,7 @@ namespace fv\yii\imagefilters;
 
 use yii\imagine\Image;
 
-class resize extends \yii\base\BaseObject implements \fv\yii\imagefilter\Filter
+class Resize extends \yii\base\BaseObject implements \fv\yii\imagefilter\Filter
 {
     public $width;
 
